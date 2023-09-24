@@ -14,4 +14,4 @@ This program helps in keeping the track of count of people entering and exiting 
     - For example if you want to change the point1 to (100, 120): `python track.py --point1 100 120`
 
 # Observation
-All of the observation made are present in this [document]()
+All of the observation made are present in this [document](https://github.com/Bumpeet/personCounting/blob/main/Observations.pdf)
